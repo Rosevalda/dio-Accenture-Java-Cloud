@@ -1,2 +1,43 @@
 # dio-Accenture-Java-Cloud
 Desafio: Redução dos Custos em Farmácias com AWS
+
+
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+
+Data: 03/01/2026
+Empresa: Abstergo Industries 
+Responsável: Rosevalda da Silva Alves
+
+## Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Rosevalda da Silva Alves. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+
+## Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
+
+Etapa 1: 
+- AWS Lambda (Serverless Computing)
+- Foco: Redução de custos operacionais e de ociosidade.
+- Descrição: Substituição de servidores EC2 por funções Lambda para processar pedidos e consultas de estoque. Com isso, a farmácia paga apenas pelos milissegundos de execução durante o horário de venda, eliminando custos durante a madrugada ou em períodos de baixo movimento.
+
+Etapa 2: 
+- Amazon S3 com Políticas de Ciclo de Vida (S3 Lifecycle)
+- Foco: Otimização de armazenamento de dados históricos.
+- Descrição:Implementação e regras para mover automaticamente receitas médicas digitais e notas fiscais antigas para a classe S3 Glacier Deep Archive. Com isso reduz o custo de armazenamento de documentos que precisam ser guardados por lei, mas que raramente são acessados.
+
+Etapa 3: 
+- Amazon RDS com instâncias reservadas ou Aurora Serverless
+- Foco: Eficiência em banco de dados
+- Descrição: Migração do banco de dados de inventário para o Amazon Aurora Serverless. O banco escala automaticamente durante picos de acesso como em casos de promoções, além de reduzir a capacidade ao mínimo em horários de pouco movimento, garantindo que a farmácia não pague por recursos de hardware que não está utilizando.
+
+
+
+## Conclusão
+A implementação de ferramentas na empresa Abstergo Industries tem como esperado a redução nos custos fixos de infraestrutura através da migração para modelos Serverless e  uso de armazenamento inteligente, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+## Anexos
+
+[lista de anexos, como manuais, documentos, planilhas, entre outros]
+
+Assinatura do Responsável pelo Projeto:
+
+Rosevalda da Silva Alves
