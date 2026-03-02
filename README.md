@@ -36,7 +36,10 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 ## Anexos
 
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+[Descrição Técnica para o Relatório.pdf](https://github.com/user-attachments/files/25670649/Descricao.Tecnica.para.o.Relatorio.pdf)
+
+
+
 
 Assinatura do Responsável pelo Projeto:
 
